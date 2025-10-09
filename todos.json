@@ -1,0 +1,17 @@
+[
+  {
+    "id": "3a0668cf-e5a8-42b7-8bfd-83126332b061",
+    "text": "Learn DSA",
+    "completed": true
+  },
+  {
+    "id": "4732903e-b7fe-4ce5-b675-6342155e65bd",
+    "text": "Learn MERN",
+    "completed": false
+  },
+  {
+    "id": "ce646024-82cd-4c0e-a85b-8b1e617a1f6a",
+    "text": "Learn CRUD",
+    "completed": false
+  }
+]
